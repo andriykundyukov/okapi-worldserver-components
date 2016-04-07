@@ -15,11 +15,11 @@ public class OpenXMLFilterConfigurationDataTest {
                     "bPreferenceTranslatePowerpointNotes.b=true\n" +
                     "bPreferenceTranslatePowerpointMasters.b=true\n" +
                     "bPreferenceTranslateWordHeadersFooters.b=true\n" +
-                    "bPreferenceTranslateWordAllStyles.b=true\n" +
                     "bPreferenceTranslateWordHidden.b=false\n" +
                     "bPreferenceTranslateWordExcludeGraphicMetaData.b=false\n" +
                     "bPreferenceTranslateExcelExcludeColors.b=false\n" +
                     "bPreferenceTranslateExcelExcludeColumns.b=false\n" +
+                    "bPreferenceTranslateExcelSheetNames.b=false\n" +
                     "bPreferenceAddLineSeparatorAsCharacter.b=false\n" +
                     "bPreferenceReplaceNoBreakHyphenTag.b=true\n" +
                     "bPreferenceIgnoreSoftHyphenTag.b=false\n" +
